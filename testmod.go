@@ -1,4 +1,4 @@
-package testmod
+package golang1
 
 import "fmt" 
 
