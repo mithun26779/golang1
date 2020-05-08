@@ -1,19 +1,19 @@
-package test
+// package test
 
-import (
+// import (
 
-	"fmt"
+// 	"fmt"
 
-    "github.com/mithun26779/golang1"
+//     "github.com/mithun26779/golang1"
 
-)
-
-
-func main() {
-
-fmt.Println(golang1.Hi("abc"))
+// )
 
 
+// func main() {
+
+// fmt.Println(golang1.Hi("abc"))
 
 
-}
+
+
+// }
