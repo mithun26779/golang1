@@ -1,9 +1,9 @@
 package golang1
 
-import "fmt" 
+import "fmt"
 
 // Hi returns a friendly greeting
 func Hi(name string) string {
-   return fmt.Sprintf("Hi, %s", name)
+   return fmt.Sprintf("MSG from golang1: , %s", name)
 }
 
