@@ -8,3 +8,10 @@ func Hi(name string) string {
    return fmt.Sprintf("MSG from golangv1.0.3:  %s", name)
 }
 
+func init() {
+    fmt.Println("go3 init 2")
+}
+
+func init() {
+    fmt.Println("go3 init 1")
+}
