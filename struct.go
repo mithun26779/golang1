@@ -6,4 +6,6 @@ type Person struct {
     Age  int
 }
 
-
+func init() {
+    fmt.Println("go3 init 3 in struct.go")
+}
