@@ -1,5 +1,6 @@
 package golang1
 
+import "fmt"
 
 type Person struct {
     Name string
